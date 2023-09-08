@@ -193,9 +193,10 @@ section {
 
 .home .slide .content p {
   font-size: 1.4rem;
-  color: var(--light-color);
-  line-height: 2;
-  padding: 1rem 0;
+  color: black;
+  padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+  background: rgb(204, 204, 204); /* Terugval voor oudere browsers zonder RGBA-support */
+  background: rgba(204, 204, 204, 0.5);
 }
 
 
@@ -231,14 +232,13 @@ section {
 }
 
 .over .row .content h3 {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   color: var(--black);
 }
 
 .over .row .content p {
   font-size: 1.5rem;
   color: var(--light-color);
-  line-height: 2;
   padding: 1rem 0;
 }
 
@@ -414,6 +414,17 @@ section {
   .over .row .content h3 {
     font-size: 2.5rem;
   }
+}
+
+
+
+
+
+.content-overig{
+  font-size: 1.4rem;
+}
+.content-overig h3{
+  font-size: 2.5rem;
 }
 
 
