@@ -523,10 +523,6 @@ section {
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
             clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
   }
-  .header .navbar a {
-    display: block;
-    margin: 2rem;
-  }
   .header span:hover {
     color: black;
   }
@@ -550,6 +546,15 @@ section {
   .home .slide .content h3 {
     font-size: 3rem;
   }
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .header .navbar a {
+    display: block;
+    margin: 2rem;
+  }
 }
 
 @media (max-width: 450px) {
@@ -570,7 +575,12 @@ section {
   img{
     max-width: max-width: 100%;
   }
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 
 
 
