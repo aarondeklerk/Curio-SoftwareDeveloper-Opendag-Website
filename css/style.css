@@ -149,6 +149,9 @@ section {
   text-align: center;
   margin-left: .3rem;
 }
+.header img.logo{
+  width: 120px;
+}
 
 
 
