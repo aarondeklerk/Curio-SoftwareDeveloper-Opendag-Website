@@ -45,9 +45,9 @@ Doordat dit een school project was, accepteer ik geen pull requests op deze repo
 ## Links
 
 Met betrekking tot het project:
-- [De website (mijn versie) van het project](https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/)_
-- [Github repository van mijn project](https://github.com/aarondeklerk/Curio-SoftwareDeveloper-Opendag-Website)_
-- _Voor versies/websites van andere studenten, bekijk de [algemene project website](https://info.curio.codes/)_
+- [De website (mijn versie) van het project](https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/)
+- [Github repository van mijn project](https://github.com/aarondeklerk/Curio-SoftwareDeveloper-Opendag-Website)
+- _Voor versies/websites van andere studenten, bekijk de [algemene project website](https://info.curio.codes/)
 
 Persoonlijk:
 - [Mijn persoonlijke website](https://www.aarondeklerk.nl)
