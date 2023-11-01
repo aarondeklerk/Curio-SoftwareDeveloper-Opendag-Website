@@ -1,3 +1,4 @@
+/* Imports en variabelen */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
 :root {
   --yellow:#f5bf23;
@@ -10,6 +11,9 @@
   --green:darkgreen;
 }
 
+
+
+/* Algemeen */
 * {
   font-family: 'Poppins', sans-serif;
   margin: 0;
@@ -39,19 +43,9 @@ html::-webkit-scrollbar-track {
 html::-webkit-scrollbar-thumb {
   background: var(--yellow);
 }
-
-
-
-
-
 section {
   padding: 5rem 10%;
 }
-
-
-
-
-
 .heading {
   margin-bottom: 3rem;
   font-size: 3rem;
@@ -90,6 +84,9 @@ section {
   }
 }
 
+
+
+/* Header */
 .header {
   position: -webkit-sticky;
   position: sticky;
@@ -155,8 +152,7 @@ section {
 
 
 
-
-
+/* Home sectie */
 .home {
   padding: 0;
 }
@@ -205,8 +201,7 @@ section {
 
 
 
-
-
+/* Over sectie */
 .over .row {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -217,16 +212,6 @@ section {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   gap: 3rem;
-}
-
-.over .row .video {
-  -webkit-box-flex: 1;
-      -ms-flex: 1 1 41rem;
-          flex: 1 1 41rem;
-}
-
-.over .row .video video {
-  width: 100%;
 }
 
 .over .row .content {
@@ -275,20 +260,14 @@ section {
   line-height: 2;
   padding-top: .5rem;
 }
-
-
-
-
-
-.afbeelding img{
+.aboutImage img{
   width: 345px;
   height: 220px;
 }
 
 
 
-
-
+/* Vakken sectie */
 .vakken {
   background: var(--light-bg);
 }
@@ -336,31 +315,7 @@ section {
 
 
 
-
-
-.footer{
-  text-align: center;
-}
-
-.footer .links .btn {
-  margin: .5rem;
-}
-
-.footer .credit {
-  font-size: 2rem;
-  color: var(--black); 
-  margin-top: 2rem;
-  padding-top: 1rem;
-}
-
-.footer .credit span {
-  color: var(--yellow);
-}
-
-
-
-
-
+/* Docenten sectie */
 .docenten {
   background: var(--black);
 }
@@ -389,6 +344,10 @@ section {
 .docenten .box-container .box .image {
   height: 25rem;
   overflow: hidden;
+}
+
+.docenten .box-container {
+  overflow-x: hidden;
 }
 
 .docenten .box-container .box .image img {
@@ -438,18 +397,93 @@ section {
 
 
 
+/* Overige content */
+.content-overig{
+  font-size: 1.4rem;
+}
+.content-overig h3{
+  font-size: 2.5rem;
+}
 
 
 
+/* Mening sectie */
+.mening .slide p {
+  padding: 1.5rem;
+  background: var(--light-bg);
+  position: relative;
+  margin-bottom: 3rem;
+  font-size: 1.4rem;
+  color: var(--light-color);
+  line-height: 2;
+}
+
+.mening .slide p::before {
+  content: '';
+  position: absolute;
+  bottom: -1rem;
+  left: 2rem;
+  height: 2rem;
+  width: 2rem;
+  background: var(--light-bg);
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+.mening .slide .user {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 1.5rem;
+}
+
+.mening .slide .user img {
+  height: 7rem;
+  width: 7rem;
+}
+
+.mening .slide .user h3 {
+  font-size: 2rem;
+  color: var(--black);
+}
+
+.mening .slide .user .stars {
+  padding-top: .5rem;
+}
+
+.mening .slide .user .stars i {
+  font-size: 1.4rem;
+  color: var(--yellow);
+}
 
 
 
+/* Footer */
+.footer{
+  text-align: center;
+}
+
+.footer .links .btn {
+  margin: .5rem;
+}
+
+.footer .credit {
+  font-size: 2rem;
+  color: var(--black); 
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+.footer .credit span {
+  color: var(--yellow);
+}
 
 
 
-
-
-
+/* Media queries */
 @media (max-width: 1200px) {
   .header {
     padding: 1.5rem 2rem;
@@ -517,87 +551,29 @@ section {
 
 @media (max-width: 450px) {
   html {
+    overflow-x: hidden;
     font-size: 50%;
   }
+  body
   .over .row .content h3 {
     font-size: 2.5rem;
   }
+  section.swiper-slide{
+    max-width: max-width: 100%;
+  }
+  section.swiper-slide img{
+    max-width: max-width: 100%;
+  }
+  img{
+    max-width: max-width: 100%;
+  }
 }
 
 
 
 
 
-.content-overig{
-  font-size: 1.4rem;
-}
-.content-overig h3{
-  font-size: 2.5rem;
-}
 
-
-
-
-
-.mening .slide p {
-  padding: 1.5rem;
-  background: var(--light-bg);
-  position: relative;
-  margin-bottom: 3rem;
-  font-size: 1.4rem;
-  color: var(--light-color);
-  line-height: 2;
-}
-
-.mening .slide p::before {
-  content: '';
-  position: absolute;
-  bottom: -1rem;
-  left: 2rem;
-  height: 2rem;
-  width: 2rem;
-  background: var(--light-bg);
-  -webkit-transform: rotate(45deg);
-          transform: rotate(45deg);
-}
-
-.mening .slide .user {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  gap: 1.5rem;
-}
-
-.mening .slide .user img {
-  height: 7rem;
-  width: 7rem;
-}
-
-.mening .slide .user h3 {
-  font-size: 2rem;
-  color: var(--black);
-}
-
-.mening .slide .user .stars {
-  padding-top: .5rem;
-}
-
-.mening .slide .user .stars i {
-  font-size: 1.4rem;
-  color: var(--yellow);
-}
-
-
-
-
-
-.rooster{
-  margin-top: -35px;
-  background: var(--light-bg);
-}
 
 
 
