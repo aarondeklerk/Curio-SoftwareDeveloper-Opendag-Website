@@ -45,16 +45,17 @@ Doordat dit een school project was, accepteer ik geen pull requests op deze repo
 ## Links
 
 Met betrekking tot het project:
-- (De website (mijn versie van het project))[https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/]
-- (Github repository van mijn project)[https://github.com/aarondeklerk/Curio-SoftwareDeveloper-Opendag-Website]
+- [De website (mijn versie) van het project](https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/)_
+- [Github repository van mijn project](https://github.com/aarondeklerk/Curio-SoftwareDeveloper-Opendag-Website)_
 - _Voor versies/websites van andere studenten, bekijk de [algemene project website](https://info.curio.codes/)_
 
-Overige:
-- (Mijn persoonlijke website)[https://www.aarondeklerk.nl]
-- (Linkedin)[https://www.linkedin.com/in/aaron-de-klerk/]
-- (Instagram)[https://www.instagram.com/aarondeklerk/]
-- (Github)[https://github.com/aarondeklerk/]
-- (Facebook)[https://www.facebook.com/aaron.deklerk.90/]
+Persoonlijk:
+- [Mijn persoonlijke website](https://www.aarondeklerk.nl)
+- [Mijn persoonlijke linktree](https://www.aarondeklerk.nl/linktree)
+- [Linkedin](https://www.linkedin.com/in/aaron-de-klerk/])
+- [Instagram](https://www.instagram.com/aarondeklerk/)
+- [Github](https://github.com/aarondeklerk/)
+- [Facebook](https://www.facebook.com/aaron.deklerk.90/)
 
 <p align="right">(<a href="#readme-top">Terug naar boven</a>)</p>
 
