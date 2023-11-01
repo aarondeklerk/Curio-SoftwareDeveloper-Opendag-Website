@@ -11,7 +11,7 @@
 
   <p align="center">
     <br />
-    <a href="https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/"><strong>Open de website »</strong></a>
+    <a href="https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/" target="_blank"><strong>Open de website »</strong></a>
   </p>
 </div>
 
@@ -45,17 +45,17 @@ Doordat dit een school project was, accepteer ik geen pull requests op deze repo
 ## Links
 
 Met betrekking tot het project:
-- [De website (mijn versie) van het project](https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/)
-- [Github repository van mijn project](https://github.com/aarondeklerk/Curio-SoftwareDeveloper-Opendag-Website)
-- _Voor versies/websites van andere studenten, bekijk de [algemene project website](https://info.curio.codes/)
+- <a href="https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/" target="_blank">De website (mijn versie) van het project</a>
+- <a href="https://github.com/aarondeklerk/Curio-SoftwareDeveloper-Opendag-Website" target="_blank">Github repository van mijn versie van het project</a>
+- Voor versies/websites van andere studenten, bekijk de <a href="https://info.curio.codes/" target="_blank">algemene project website</a>
 
 Persoonlijk:
-- [Mijn persoonlijke website](https://www.aarondeklerk.nl)
-- [Mijn persoonlijke linktree](https://www.aarondeklerk.nl/linktree)
-- [Linkedin](https://www.linkedin.com/in/aaron-de-klerk/])
-- [Instagram](https://www.instagram.com/aarondeklerk/)
-- [Github](https://github.com/aarondeklerk/)
-- [Facebook](https://www.facebook.com/aaron.deklerk.90/)
+- <a href="https://www.aarondeklerk.nl" target="_blank">Mijn persoonlijke website</a>
+- <a href="https://www.aarondeklerk.nl/linktree" target="_blank">Mijn persoonlijke linktree</a>
+- <a href="https://www.linkedin.com/in/aaron-de-klerk/" target="_blank">Linkedin</a>
+- <a href="https://www.instagram.com/aarondeklerk/" target="_blank">Instagram</a>
+- <a href="https://github.com/aarondeklerk/" target="_blank">Github</a>
+- <a href="https://www.facebook.com/aaron.deklerk.90/" target="_blank">Facebook</a>
 
 <p align="right">(<a href="#readme-top">Terug naar boven</a>)</p>
 
