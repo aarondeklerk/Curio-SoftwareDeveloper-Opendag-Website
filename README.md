@@ -37,7 +37,8 @@ Dit betreft een praktijk opdracht voor school. Het doel van de opdracht was om e
 ## Bijdragen
 
 Doordat dit een school project was, accepteer ik geen pull requests op deze repository. 
-Wel kun je een fork maken en daarop je eigen versie maken, mocht je dat willen. Als je een fout vind, kun je een issue ervoor aanmaken. 
+Wel kun je een fork maken en daarop je eigen versie maken, mocht je dat willen. 
+Als je een fout vind, kun je een issue ervoor aanmaken. 
 
 <p align="right">(<a href="#readme-top">Terug naar boven</a>)</p>
 
