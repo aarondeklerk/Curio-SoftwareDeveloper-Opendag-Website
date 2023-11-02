@@ -23,7 +23,7 @@ Dit betreft een praktijk opdracht voor school. Het doel van de opdracht was om e
 
 <p align="right"><a href="#readme-top"></a></p>
 
-### Tools
+### Gebruikte tools
 
 - HTML
 - CSS
