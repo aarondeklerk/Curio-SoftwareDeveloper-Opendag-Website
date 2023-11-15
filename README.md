@@ -7,7 +7,7 @@
     <img src="images/Curio-SoftwareDevelopers-Logo.png" alt="Logo" height="80">
   </a>
 
-<h3 align="center">Curio - opleiding Software Developer - opendag - website</h3>
+<h3 align="center">Curio - opleiding Software Developer - open dag - website</h3>
 
   <p align="center">
     <br />
