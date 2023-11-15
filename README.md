@@ -19,7 +19,7 @@
 
 ## Over het project
 
-Dit betreft een praktijk opdracht voor school. Het doel van de opdracht was om een website te maken omtrent de opleiding Software Developer op Curio. Dit voor de open dag. Hierbij kregen de bezoekers namelijk een kaartje mee, met een link van een website. Op deze website verschijnt er bij een herlading, steeds een website van een andere student. Op deze manier kunnen de (eventuele) nieuwe studenten zien wat ze onder andere gaan leren en hoe ver wij staan als tweedejaars studenten.
+Dit project betreft een praktijkopdracht voor school, met als doel het ontwikkelen van een website voor de opleiding Software Developer aan Curio, specifiek gericht op de open dag. Bezoekers van de open dag, ontvingen een kaartje met een link naar een website. Op deze website verscheen er bij een herlaadactie steeds een andere website, gemaakt door een student van de opleiding. Hiermee konden geïnteresseerden thuis de informatie op een gestructureerde manier herlezen, waardoor zij een beter beeld kregen van de opleiding en konden bepalen of deze bij hen past.
 
 <p align="right"><a href="#readme-top"></a></p>
 
@@ -59,7 +59,7 @@ Persoonlijk:
 - <a href="https://github.com/aarondeklerk/" target="_blank">Github</a>
 - <a href="https://www.facebook.com/aaron.deklerk.90/" target="_blank">Facebook</a>
 
-<p align="right">(<a href="#readme-top">Terug naar boven/a>)</p>
+<p align="right">(<a href="#readme-top">Terug naar boven)</p>
 
 
 
