@@ -7,7 +7,7 @@
     <img src="images/Curio-SoftwareDevelopers-Logo.png" alt="Logo" height="80">
   </a>
 
-<h3 align="center">Curio - opleiding Software Developer - open dag - website</h3>
+<h3 align="center">Curio - opleiding Software Developer - open dag website</h3>
 
   <p align="center">
     <br />
@@ -34,7 +34,7 @@ Dit project betreft een praktijkopdracht voor mijn opleiding aan Curio. Hierbij 
 ## Links
 
 Met betrekking tot het project:
-- <a href="https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/" target="_blank">Website/a>
+- <a href="https://aarondeklerk.github.io/Curio-SoftwareDeveloper-Opendag-Website/" target="_blank">Website</a>
 - <a href="https://github.com/aarondeklerk/Curio-SoftwareDeveloper-Opendag-Website" target="_blank">Github repository</a>
 - Voor versies/websites van andere studenten, bekijk de <a href="https://info.curio.codes/" target="_blank">Algemene project website</a>
 
